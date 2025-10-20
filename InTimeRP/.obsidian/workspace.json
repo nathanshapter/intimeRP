@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OFFICIAL ROADMAP - START HERE.md",
+                "file": "Server Documentation/1. OFFICIAL ROADMAP - START HERE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OFFICIAL ROADMAP - START HERE"
+              "title": "1. OFFICIAL ROADMAP - START HERE"
+            }
+          },
+          {
+            "id": "c7a9bccc6bc34e1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Server Documentation/1. OFFICIAL ROADMAP - START HERE.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. OFFICIAL ROADMAP - START HERE"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "7be6f52af06dad46",
@@ -110,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OFFICIAL ROADMAP - START HERE.md",
+                "file": "Server Documentation/1. OFFICIAL ROADMAP - START HERE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +135,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for OFFICIAL ROADMAP - START HERE"
+              "title": "Backlinks for 1. OFFICIAL ROADMAP - START HERE"
             }
           },
           {
@@ -129,12 +144,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OFFICIAL ROADMAP - START HERE.md",
+                "file": "Server Documentation/1. OFFICIAL ROADMAP - START HERE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from OFFICIAL ROADMAP - START HERE"
+              "title": "Outgoing links from 1. OFFICIAL ROADMAP - START HERE"
             }
           },
           {
@@ -158,13 +173,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OFFICIAL ROADMAP - START HERE.md",
+                "file": "Server Documentation/1. OFFICIAL ROADMAP - START HERE.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of OFFICIAL ROADMAP - START HERE"
+              "title": "Outline of 1. OFFICIAL ROADMAP - START HERE"
             }
           }
         ]
@@ -185,9 +200,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "871f4ed519caa1f9",
+  "active": "c7a9bccc6bc34e1b",
   "lastOpenFiles": [
-    "OFFICIAL ROADMAP - START HERE.md",
+    "Server Documentation/Glossary.md",
+    "Server Documentation/1. OFFICIAL ROADMAP - START HERE.md",
+    "Server Documentation/Images.md",
+    "Server Documentation",
+    "OFFICIAL ROADMAP - START HERE",
     "Welcome.md"
   ]
 }
