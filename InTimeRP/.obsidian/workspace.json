@@ -6,6 +6,7 @@
       {
         "id": "090d8a00fb63a9c3",
         "type": "tabs",
+        "dimension": 78.68632707774799,
         "children": [
           {
             "id": "871f4ed519caa1f9",
@@ -41,6 +42,7 @@
       {
         "id": "7be6f52af06dad46",
         "type": "tabs",
+        "dimension": 21.31367292225201,
         "children": [
           {
             "id": "2fa00551ba01afd7",
@@ -109,7 +111,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f9d6b8260ac261ed",
@@ -202,9 +205,9 @@
   },
   "active": "c7a9bccc6bc34e1b",
   "lastOpenFiles": [
+    "Server Documentation/Images.md",
     "Server Documentation/Glossary.md",
     "Server Documentation/1. OFFICIAL ROADMAP - START HERE.md",
-    "Server Documentation/Images.md",
     "Server Documentation",
     "OFFICIAL ROADMAP - START HERE",
     "Welcome.md"
