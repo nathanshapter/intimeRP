@@ -1,0 +1,21 @@
+/* ======== Prevent strike-through for checked tasks ======== */
+.markdown-preview-view .task-list-item.is-checked p,
+.markdown-preview-view .task-list-item.is-checked span,
+.markdown-preview-view .task-list-item.is-checked,
+.cm-s-obsidian span.cm-formatting-task.cm-formatting-task-checked + span,
+.cm-s-obsidian .HyperMD-task-line-checked,
+.cm-s-obsidian span.cm-meta {
+    text-decoration: none !important;
+    opacity: 1 !important;
+    color: inherit !important;
+}
+
+/* Fix for themes that dim checked items */
+.task-list-item.is-checked {
+    opacity: 1 !important;
+}
+
+/* Ensure checkboxes stay visible and clickable */
+input[type="checkbox"]:checked {
+    filter: none !important;
+}
