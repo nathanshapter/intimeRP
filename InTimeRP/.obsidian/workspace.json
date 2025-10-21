@@ -104,7 +104,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -199,10 +200,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "bc9d523def552eac",
+  "active": "00eac213c519c988",
   "lastOpenFiles": [
-    "Server Documentation/In-Game-Team.md",
+    "README.md",
     "Server Documentation/1. OFFICIAL ROADMAP - START HERE.md",
+    "Server Documentation/In-Game-Team.md",
     "Server Documentation/Staff-Team.md",
     "2025-10-20.md",
     "Untitled.base",
